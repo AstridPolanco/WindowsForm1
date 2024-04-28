@@ -1,0 +1,10 @@
+C:\Users\HP BLUE\Desktop\Tareas\Progra1\ConsumoCombustible\ConsumoCombustible\obj\Debug\ConsumoCombustible.csproj.AssemblyReference.cache
+C:\Users\HP BLUE\Desktop\Tareas\Progra1\ConsumoCombustible\ConsumoCombustible\obj\Debug\ConsumoCombustible.Form1.resources
+C:\Users\HP BLUE\Desktop\Tareas\Progra1\ConsumoCombustible\ConsumoCombustible\obj\Debug\ConsumoCombustible.Properties.Resources.resources
+C:\Users\HP BLUE\Desktop\Tareas\Progra1\ConsumoCombustible\ConsumoCombustible\obj\Debug\ConsumoCombustible.csproj.GenerateResource.cache
+C:\Users\HP BLUE\Desktop\Tareas\Progra1\ConsumoCombustible\ConsumoCombustible\obj\Debug\ConsumoCombustible.csproj.CoreCompileInputs.cache
+C:\Users\HP BLUE\Desktop\Tareas\Progra1\ConsumoCombustible\ConsumoCombustible\bin\Debug\ConsumoCombustible.exe.config
+C:\Users\HP BLUE\Desktop\Tareas\Progra1\ConsumoCombustible\ConsumoCombustible\bin\Debug\ConsumoCombustible.exe
+C:\Users\HP BLUE\Desktop\Tareas\Progra1\ConsumoCombustible\ConsumoCombustible\bin\Debug\ConsumoCombustible.pdb
+C:\Users\HP BLUE\Desktop\Tareas\Progra1\ConsumoCombustible\ConsumoCombustible\obj\Debug\ConsumoCombustible.exe
+C:\Users\HP BLUE\Desktop\Tareas\Progra1\ConsumoCombustible\ConsumoCombustible\obj\Debug\ConsumoCombustible.pdb

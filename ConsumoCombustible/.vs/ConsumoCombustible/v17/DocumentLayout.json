@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP BLUE\\Desktop\\Tareas\\Progra1\\ConsumoCombustible\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8218D2EC-30B5-40F9-BFFA-F9ADE8D357F6}|ConsumoCombustible\\ConsumoCombustible.csproj|c:\\users\\hp blue\\desktop\\tareas\\progra1\\consumocombustible\\consumocombustible\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8218D2EC-30B5-40F9-BFFA-F9ADE8D357F6}|ConsumoCombustible\\ConsumoCombustible.csproj|solutionrelative:consumocombustible\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8218D2EC-30B5-40F9-BFFA-F9ADE8D357F6}|ConsumoCombustible\\ConsumoCombustible.csproj|c:\\users\\hp blue\\desktop\\tareas\\progra1\\consumocombustible\\consumocombustible\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8218D2EC-30B5-40F9-BFFA-F9ADE8D357F6}|ConsumoCombustible\\ConsumoCombustible.csproj|solutionrelative:consumocombustible\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\HP BLUE\\Desktop\\Tareas\\Progra1\\ConsumoCombustible\\ConsumoCombustible\\Form1.cs",
+              "RelativeDocumentMoniker": "ConsumoCombustible\\Form1.cs",
+              "ToolTip": "C:\\Users\\HP BLUE\\Desktop\\Tareas\\Progra1\\ConsumoCombustible\\ConsumoCombustible\\Form1.cs",
+              "RelativeToolTip": "ConsumoCombustible\\Form1.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAA6wCQAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T03:13:41.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\HP BLUE\\Desktop\\Tareas\\Progra1\\ConsumoCombustible\\ConsumoCombustible\\Form1.cs",
+              "RelativeDocumentMoniker": "ConsumoCombustible\\Form1.cs",
+              "ToolTip": "C:\\Users\\HP BLUE\\Desktop\\Tareas\\Progra1\\ConsumoCombustible\\ConsumoCombustible\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "ConsumoCombustible\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T03:04:53.011Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
